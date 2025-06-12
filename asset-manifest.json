@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Dyanmic-config/static/js/main.c26c1ad7.js",
-    "index.html": "/Dyanmic-config/index.html",
-    "main.c26c1ad7.js.map": "/Dyanmic-config/static/js/main.c26c1ad7.js.map"
+    "main.js": "/Average-Marks/static/js/main.c26c1ad7.js",
+    "index.html": "/Average-Marks/index.html",
+    "main.c26c1ad7.js.map": "/Average-Marks/static/js/main.c26c1ad7.js.map"
   },
   "entrypoints": [
     "static/js/main.c26c1ad7.js"
